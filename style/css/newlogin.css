@@ -1,0 +1,245 @@
+@import "iconfont.css";
+
+
+.reg-login-index .rl-wrapper {
+    margin-top: 300px;
+    min-height: 354px;
+    width: 100%;
+    background: #fff;
+    overflow: hidden;
+    display: block;
+}
+
+.reg-login-index .rl-wrapper .tab-choose{
+    width: 240px;
+    margin: 0 auto;
+}
+
+.reg-login-index .rl-wrapper .tab-choose .tab-choose-item{
+    float: left;
+    width: 120px;
+    text-align: center;
+}
+
+.reg-login-index .rl-wrapper .tab-choose .tab-choose-item a{
+    display: block;
+    height: 45px;
+    width: 60px;
+    margin: 0 auto;
+    line-height: 52px;
+
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    color: #000;
+}
+
+.bt10{
+    border-bottom: 4px solid #CCCCCC;
+}
+
+.cppc-bt10{
+    border-bottom: 4px solid #2684CC;
+}
+
+.cxb-bt10{
+    border-bottom: 4px solid #1DA9ED;
+}
+
+.pate-bt10{
+    border-bottom: 4px solid #2684CC;
+}
+
+.reg-login-index .form-container form{
+
+}
+
+.reg-login-index .form-container{
+    float: right;
+    height: 480px;
+    width: 405px;
+    margin-right: 50px;
+    /*margin-top: 30px;*/
+}
+
+.reg-login-index .form-container form .ui-form-item{
+    padding: 0 5px 25px 0;
+}
+
+.reg-login-index .form-container form .ui-form-item .ui-form-item-contain,.reg-login-index .form-container form  .otherOp .ui-form-item-contain{
+    position: relative;
+    width: 330px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.reg-login-index .form-container form .ui-form-item-error .ui-form-explain{
+    margin-left: 33px!important;
+}
+
+.reg-login-index .form-container form .ui-form-item .ui-form-item-contain i{
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    box-sizing: border-box;
+    line-height: 20px;
+    border-right: 1px solid #ccc;
+    color: #ccc;
+    text-align: center;
+    top: 8px;
+    font-size: 14px;
+    z-index:999;
+}
+
+.reg-login-index .form-container form .ui-form-item .ui-form-item-contain span{
+    left: 41px!important;
+}
+
+.reg-login-index  .form-container form .ui-form-item .ui-input{
+    padding: 0;
+    width: 328px;
+    height: 38px;
+    outline: none;
+    text-indent: 41px;
+
+    color: #999;
+    font-family: inherit;
+}
+
+
+
+.reg-login-index .otherOp {
+    overflow: hidden;
+    padding: 0 15px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    color: #666666;
+}
+
+.reg-login-index .ui-button-lred {
+    height: 38px;
+    line-height: 38px;
+    width: 328px;
+    padding: 0;
+}
+
+.reg-login-index .forgetpw{
+    float: right;
+    cursor: pointer;
+    color: #666666;
+}
+
+.reg-login-index .forgetpw:hover{
+    text-decoration: underline;
+}
+
+.reg-login-index .ui-form-l .ui-input-verifyCode {
+    width: 200px!important;
+    vertical-align: top;
+    float: left;
+}
+
+.reg-login-index .verify-pic {
+    display: none;
+    width: 111px;
+    height: 40px;
+    margin-left: 15px;
+    float: left;
+}
+
+.pb15{
+    padding-bottom: 15px!important;
+}
+
+.mt15{
+    margin-top: 15px!important;
+}
+
+.mt40{
+    margin-top: 40px!important;
+}
+
+.fz17{
+    font-size: 17px!important;
+}
+
+.fz27{
+    font-size: 27px!important;
+}
+
+.fn-left {
+    float: left;
+}
+
+.fn-left, .fn-right {
+    display: inline;
+}
+.w116{
+    width: 116px!important;
+}
+
+.reg-login-index .icon-vip {
+    color: #DF221A!important;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.reg-login-index .dn {
+    display: none;
+}
+
+.clr6{
+    color: #666;
+}
+
+#Js_vip i{
+    font-size: 16px;
+}
+
+.agreement,.agreement a{
+    font-size: 12px;
+    color: #666666;
+    height: 23px!important;
+}
+
+.grid-330{
+    width: 330px;
+    margin: 0 auto;
+}
+
+.pb5{
+    padding-bottom: 5px!important;
+}
+
+.br0{
+    border-radius: 0!important;
+}
+
+.pb17{
+    padding-bottom: 17px!important;
+}
+
+.reg-login-index form .ui-form-explain{
+    padding-top: 0;
+}
+
+.reg-login-index .ui-button-red {
+    background: #D84A4A;
+    color: #fff;
+    border: 1px solid #EE4049;
+}
+
+.reg-login-index .ui-button-blue {
+    background: #1DA9ED;
+    color: #fff;
+    border: 1px solid #1DA9ED;
+}
+
+.reg-login-index .ui-button-darkblue {
+    background: #0959AE;
+    color: #fff;
+    border: 1px solid #0959AE;
+}
+
+
+

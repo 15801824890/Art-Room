@@ -1,0 +1,39 @@
+@import "../iconfont.css";
+@import "slide.css";
+@import "pwStrong.css";
+@import "layout_common.css";
+@import "./ask.css";
+@import "./patcategory.css";
+@import "./discount.css";
+/*@import "./zlbbmodules.css";*/
+
+
+.body{clear:both;}
+
+.kill-ie{
+    background:url(../../images/common/killie/u0.png) no-repeat center center;height:100%;overflow: hidden;}
+.kill-content{width:1200px;margin:100px auto 0;}
+.kill-ie .left{width:640px;height:350px;background: url(../../images/common/killie/u98.png) no-repeat;float:left;}
+.kill-ie .right{margin-left:650px;color:#FFFFFF;}
+.kill-ie .right .header{ font-size:34px;}
+.kill-ie .right .content{font-size:18px;line-height: 32px;}
+.kill-ie .right .extra{font-size:14px;}
+.kill-ie .right .extra li{width:140px;display: inline-block;*display: inline;*zoom:1;text-align: center;}
+.kill-ie .right .extra li a{padding-top:100px;display: block;color:#FFFFFF;}
+.kill-ie .right .extra .chrome{background:url(../../images/common/killie/u86.png) no-repeat center;}
+.kill-ie .right .extra .i360{background:url(../../images/common/killie/u88.png) no-repeat center;}
+.kill-ie .right .extra .ie8{background:url(../../images/common/killie/u88.png) no-repeat center;}
+
+
+.new-footer{background:#F4F4F4}
+.new-footer .footer-layout{height:110px}
+.new-footer a{color:#000}
+.new-footer .footer-bd{overflow:hidden;border-top:1px solid #E4E4E4;padding-top:20px}
+.new-footer .footer-bd .pic{float:left;position:relative;top:-10px}
+.new-footer .footer-bd .pic img{width:60px;height:60px}
+.new-footer .footer-about{float:left;margin-left:-14px}
+.new-footer .footer-cert{border:none;float:left;margin-top:12px;padding:0}
+.new-footer .footer-cert .cert-item{margin-left:14px;display:inline-block}
+.new-footer .footer-bd{display:inline-block}
+.new-footer .footer-bd .clr9 a,.new-footer .footer-bd .clr9 span{color:#999;padding:0}
+.new-footer .footer-bd .clr9{margin-left:16px}
